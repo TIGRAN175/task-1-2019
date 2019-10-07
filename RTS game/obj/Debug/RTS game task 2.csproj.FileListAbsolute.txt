@@ -1,0 +1,7 @@
+C:\Users\TiG\documents\visual studio 2017\Projects\RTS game\RTS game\obj\Debug\RTS game task 2.csprojAssemblyReference.cache
+C:\Users\TiG\documents\visual studio 2017\Projects\RTS game\RTS game\obj\Debug\RTS_game.Form1.resources
+C:\Users\TiG\documents\visual studio 2017\Projects\RTS game\RTS game\obj\Debug\RTS_game.Properties.Resources.resources
+C:\Users\TiG\documents\visual studio 2017\Projects\RTS game\RTS game\obj\Debug\RTS game task 2.csproj.GenerateResource.cache
+C:\Users\TiG\documents\visual studio 2017\Projects\RTS game\RTS game\obj\Debug\RTS game task 2.csproj.CoreCompileInputs.cache
+C:\Users\TiG\documents\visual studio 2017\Projects\RTS game\RTS game\obj\Debug\RTS game.exe
+C:\Users\TiG\documents\visual studio 2017\Projects\RTS game\RTS game\obj\Debug\RTS game.pdb
